@@ -48,6 +48,11 @@
     margin: 15px;
   }
   
+  .cabeza a{
+    text-decoration: none;
+    color: #111;
+  }
+  
   .conte p{
     padding: 10px 10px;
     text-align: center;
